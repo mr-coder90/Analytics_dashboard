@@ -156,7 +156,7 @@ const Dashboard = () => {
             <DataTable data={data} />
 
             <footer className="mt-12 text-center text-muted text-sm py-6 border-t border-gray-800">
-                <p>Dashboard generated for MapUp Grid Assessment</p>
+                <p>Created by Parthasarathi...thank you</p>
             </footer>
         </div>
     );
